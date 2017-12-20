@@ -2,7 +2,21 @@
 
 It is worth mentioning here my assessment of the kit, this is my own opinion and yours may differ.
 
-### Completeness: "B+"
+## Overall: "B-"
+
+Grading criteria: a "C" would indicate measurable build quality issues or minimal kit (e.g. no heat bed).
+"A" indicates a top-of-the line where we could use the "Prusa Kit" as a baseline.
+
+I give the Kit a "B minus" because I find a good amount of parts that typify a workable Prusa i3 DIY kit
+that you might find elsewhere on Amazon.  Looking at the parts some are what I would expect and are decent
+quality.  The stepper motors are decent, the arduino clone is servicable.  But I did find some fit issues with the
+stepper motor controllers.  In general I find the parts typical of good quality generic parts.  You can find better parts
+by certain brands as well as poor quality parts.  I get the feeling that the Rep Rap Guru folks sourced good cheap parts
+for their kits that are both economical and generally well behaved.
+
+There is a danger in this because we may have some issues with economic parts.
+
+## Completeness: "B+"
 
 The kit has a heated glass bed.  I think a kit has to have at least that functionality to get into Prusa i3 range,
 some kits you will find on Amazon will lack this.  The build plate is of a nice size, giving a 200mm square build service.
@@ -14,16 +28,10 @@ like wood or carbon reinforced plastics will require minor but accessible and af
 and there will be some, this should be a satisfying project.   There are upgrades that this kit does not contain, perhaps
 the most popular would be an auto-level sensor, easily enough to add.  The next would be an upgrade to an E3D hotend.
 
+A failing in this kit is its mediocre solution for a filament spool holder.  Prepare yourself to print something up.  The provided pieces of acrylic are designed to hang on a wall mount of some sort.  But really these are not 
+
 ## Parts: "B" to "C+"
 
-Grading criteria: a "C" would indicate measurable build quality issues or minimal kit (e.g. no heat bed).
-"A" indicates a top-of-the line where we could use the "Prusa Kit" as a baseline.
-
-I give the Kit a "B minus" because I find a good amount of parts that typify a workable Prusa i3 DIY kit
-that you might find elsewhere on Amazon.  It is not the top-of-line version of these parts which might lead
-into the "B plus" or "A minus" range.  The nozel is okay but if you were to peek into the firmware you may note
-that the temperature sensor has this to say about it: `"100k EPCOS - Not as accurate as table 1 (created using a
-fluke thermocouple) (4.7k pullup)"` compare this prefered thermisters by Semitec which you may choose as an upgrade.
 This and other examples lead me to believe the kit is of a servicable quality but allows for upgrades as you grow.
 
 I could argue for a "C plus" for the following two reasons:
@@ -36,7 +44,7 @@ I could argue for a "C plus" for the following two reasons:
    small scoopes in the chamfered corner sections.  This did not take much work but was arguably more danger than I was
    looking for as a small piece chipped away.
 
-## Documentation: "B"
+## Documentation: "B-"
 
 ## Software: "A-"
 
