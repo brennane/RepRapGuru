@@ -2,19 +2,16 @@
 
 It is worth mentioning here my assessment of the kit, this is my own opinion and yours may differ.
 
-## Overall: "B-"
+## Overall: "B"
 
 Grading criteria: a "C" would indicate measurable build quality issues or minimal kit (e.g. no heat bed).
 "A" indicates a top-of-the line where we could use the "Prusa Kit" as a baseline.
 
-I give the Kit a "B minus" because I find a good amount of parts that typify a workable Prusa i3 DIY kit
-that you might find elsewhere on Amazon.  Looking at the parts some are what I would expect and are decent
-quality.  The stepper motors are decent, the arduino clone is servicable.  But I did find some fit issues with the
-stepper motor controllers.  In general I find the parts typical of good quality generic parts.  You can find better parts
-by certain brands as well as poor quality parts.  I get the feeling that the Rep Rap Guru folks sourced good cheap parts
-for their kits that are both economical and generally well behaved.
-
-There is a danger in this because we may have some issues with economic parts.
+- Parts: mixed review, generally the parts are good generic clones.  But everything is a clone.  I did find some issues with my parts that needed revision.
+- Completeness: This is a good functional printer, but lacks some of the nicer touches other kits have such as auto-leveling and a good quality filament spool.
+- Documentation: Build manual is most of the time easy to follow, but it references older iterations of the hardware which makes things such as the "bill of materials" not quite match up with the current kit.  It also ends abruptly without providing advice on how to get to your first successful print after getting the software installed.
+- Software: Open Source and Open Source software.  This is good since the DIY and reprap community is alive and well.
+- Service: I have exchanged emails with the service team a few times and have a good feeling about their customer support.
 
 ## Completeness: "B+"
 
