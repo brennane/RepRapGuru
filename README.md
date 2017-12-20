@@ -10,7 +10,7 @@ There were things that frustrated me and I quite imagine could baffle someone wh
 
 A bit on organization:
 
-- Kit Review: my review of the kit, would I recommend it.  A qualified _yes!_
+- [Kit Review](Kit_Review.md): Would I recommend getting this kit:  A qualified _yes!_
 - Build notes: these describe little notes I made to myself about the build, and some issues I had during the build that are worth noting.
 - Initial calibration: after putting the thing together I needed to get a successful print. What to print first?  What settings and filament to use?   There is a lot of conflicting advice out there and I will hopefully cut through some of the noise with sensible settings.  The RRG build manual gets you through initial software setup but lacks information on this important step.
 - Firmware: RRG firmware is based on the popular _Marlin_ firmware.  I have an updated branch and hope to commit my "RepRapGuru/V2" configuration upstream.  This isn't necessary but could be useful if you are going to tweak or machine later on.
