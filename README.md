@@ -13,7 +13,7 @@ There were things that frustrated me and I quite imagine could baffle someone wh
 
 Would I recommend getting this kit:  A qualified _yes!_
 
--  follow this link: [Kit Review](Kit_Review)
+**[Kit Review](Kit_Review)**
 
 # Build notes
 
