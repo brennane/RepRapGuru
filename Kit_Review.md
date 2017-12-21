@@ -1,8 +1,8 @@
 # Kit quality
 
-Worth buying?  Yes.
+Worth buying?  A qualified yes.
 
-Here my assessment of the kit, this is my own opinion and yours may differ.
+Buy it if you are relatively confident in tinkering and willing to accept having to figure out whether you are facing a part problem, build problem, or calibration issue.
 
 ## Overall: "B"
 
