@@ -106,4 +106,9 @@ I did try calling their number which went to voicemail.  But I believe if you do
 
 ## Reviewer Adjustment: "positive"
 
-Finally, after writing this review.  I think it edges slightly more pessimistic.  If you are DIY'er then go have fun and expect some bumps.  If you are buying this for a 12-year old kid ... prepare to help out.  The 
+Finally, after writing this review.  I think it edges slightly more pessimistic.  If you are DIY'er then go have fun and expect some bumps.  If you are buying this as a christmas present for a family member, be prepared to help out.  The build manual opens with this expection which I think is appropriate for this kit:
+
+- A little better than basic understanding of electronics
+- A little better than basic understanding of mechanical components
+- A little better than basic computer skills
+
