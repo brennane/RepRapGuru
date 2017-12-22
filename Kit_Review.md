@@ -107,6 +107,7 @@ Right now plan on hitting external documentation, You Tube, and forums on how to
 
 Notes here are that 1st layer height, width, and speed will affecgt how well your plastic "mushes itself into the glass" which will affect how well it is heated.  The essentium PLA does not like a 30C drop in temp and is not recommended with a bed temp of 70C. I got warping and lifting trying that.  Also works at "208/55C and 202/55C" in my cooler print setting.  The configuration guide hints at a starting place but doesn't quite call out how this all works together.
 
+Last thing to say here:  where to go next?  thingiverse and tinkercad.  At least that's where _I_ went.
 
 ## Software: "A"
 
