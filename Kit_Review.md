@@ -129,19 +129,26 @@ Slic3r and Repetier-Host are excellent starting places.  Prusa also has a versio
 
 If you plan on using the current version of Marlin you need the RRG settings copied over.  I have a version of the 1.1.6 firmware at <https://github.com/brennane/RRG-Marlin> look at the "example_configuration/RepRapGuru/V2" directory.  But if you like current releases and off-the-shelf this has not, at least, hosed my printer.
 
-##  Service and Support: "A+"
+##  Service and Support: "A"
 
 Where I found the parts okay to slightly subpar I also find the service from their support team willing and able to
-rectify some of these.  They answered my email on Saturday, have sent me a replacement part for my extruder feeder along with tracking information.  They eyeballed from one of my first test prints that "hey, you have your filament too hot" which wasn't even what I asked.
+rectify some of these.  They answered my email on Saturday, have sent me a replacement part for my extruder feeder along with tracking information.  They eyeballed from one of my first test prints that "hey, you have your filament too hot".
 
-I did try calling their number which went to voicemail.  But I believe if you do your homework, ask a specific question such as "hey, this doesn't look right" you should be able to engage a good support conversation.  Keep in mind that you are engaging a business correspondance so do your half and they'll do theirs.
+I did try calling their number which went to voicemail but the VM did mention that email may be best.
 
-These guys are US.  The company is US, the parts might be from overseas suppliers but that's a different thing; remember even your phone are made overseas.   They shipped my replacement from somewhere on the East Coast.  Good people.
+I believe if you do your homework, ask a specific question such as "hey, this doesn't look right" you should be able to engage a good support conversation.  Keep in mind that you are engaging a business correspondance so do your half and they'll do theirs.
+
+These guys are a US company.  That's not to say all the parts are from the US ... remember even your phone parts are made overseas.   They shipped my replacement from somewhere on the East Coast.
+
+Good people.
 
 ## Reviewer Adjustment: "positive"
 
-Finally, after writing this review.  I think it edges slightly  pessimistic.  If you are DIY'er then go have fun and expect some bumps.  If you are buying this as a christmas present for a family member, be prepared to help out.  The build manual opens with this expection which I think is appropriate for this kit:
+If you are DIY'er then go have fun and expect some bumps.  If you are buying this as a christmas present for a family member, be prepared to help out.  The build manual opens with this expection which I think is appropriate for this kit:
 
 - A little better than basic understanding of electronics
 - A little better than basic understanding of mechanical components
 - A little better than basic computer skills
+
+In particular what swung me from negative to positive is the help from the support folks.
+
