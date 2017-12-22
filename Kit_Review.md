@@ -4,7 +4,7 @@ Worth buying?  A qualified yes.
 
 Buy it if you are relatively confident in tinkering and willing to accept having to figure out whether you are facing a part problem, build problem, or calibration issue.
 
-## Overall: "B" to "B+"
+## Overall: "B+"
 
 I think its a relatively complete kit with minor issues.  If you want a frustration-free build experience for a Prusa i3 printer ...  you might want to spend a lot more and get a Prusa i3 kit for many times tthe cost of this kit:  for a clone I am happy at this price point.
 
