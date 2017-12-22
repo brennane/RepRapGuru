@@ -16,22 +16,20 @@ I think its a relatively complete kit with some minor issues.  If you want a fru
 
 ## Completeness: "B+"
 
-The kit has a heated glass bed.  I think a kit has to have at least that functionality to get into Prusa i3 range,
-some kits you will find on Amazon will lack this.  The build plate is of a nice size, giving a 200mm square build service.
-Again this good.  The kit is also very Open Source which means you have relatively tested and understood parts in the DIY
-and 3d printer communities, that means there is probably a solution for you confusion and ideas on where to go next.
+The kit has a heated glass bed.  This will be useful functionality that better kits ought to have; lesser kits on Amazon will lack this.  The build plate is of a nice size, giving a 200mm square build service.
+
+The kit is also very Open Source and uses parts one could source as part of the DIY community.  That means there is probably a solution for you confusion and ideas on where to go next.
 
 With this kit you should end up with solid foundation for printing PLA, PETG, and ABS.  Getting into more exotic materials
 like wood or carbon reinforced plastics will require minor but accessible and affordable tweaks.  With a little effort,
 and there will be some, this should be a satisfying project.   There are upgrades that this kit does not contain, perhaps
 the most popular would be an auto-level sensor, easily enough to add.  The next would be an upgrade to an E3D hotend.
 
-A failing in this kit is its mediocre solution for a filament spool holder.  Prepare yourself to print something up.  The provided pieces of acrylic are designed to hang on a wall mount of some sort.  But really these are not 
+A failing in this kit is its mediocre solution for a filament spool holder.  Prepare yourself to print something up.  The provided pieces of acrylic are designed to hang on a wall mount of some sort.
 
 ## Parts: "B" to "B-"
 
-Grading criteria: a "C" would indicate measurable build quality issues or minimal kit (e.g. no heat bed).
-"A" indicates a top-of-the line where we could use the "Prusa Kit" as a baseline.
+Let's say a "C" would indicate measurable build quality issues or minimal kit.  On the other end for an "A"  may indicates a top-of-the line where we could use the Prusa branded "Prusa i3" as a baseline.
 
 ### Less happy with
 
@@ -68,6 +66,8 @@ When I did my build the build manual is version 1.4; configuration manual versio
 
 _This is not included in this kit_. What is provided is substandard, in my humble opinion.  It attaches to your wall, I think.  See the picture of mine with a printed hub to center the spool.
 
+![Ghetto Spool Holder](images/spool_holder.jpg)
+
 ### Build Manual: "B"
 
 Bill of Materials incorrect with one of the bags: there's an amazon review out there that calls this out too.
@@ -91,11 +91,28 @@ Sadly where the kit fails is what to do after setting it up.  Head on over to th
 
 Right now plan on hitting external documentation, You Tube, and forums on how to dial in the printer to get good prints.  I wish there was a booklet on "getting a good PLA print".  This is hinted at in the Configuration manual as there are settings, but it assumes too much.
 
+**Level your bed properly and set the Z stop** I did my prints with **Essentium PLA**.  I chose this company because they are US made, are a top-tier player in the 3d filament world and are working directly with BASF to develop filaments.  Expensive but for dialing in your printer I would choose expensive top quality over a cheap product.
+
+![PLA calibration prints](images/pla_calibration_print.jpg)
+
+- Layer Height: 0.2mm
+- 1st Layer Height: 0.35mm **no more than your nozzel width**
+- 1st Layer Extrusion Width: 175%  **150% to 175%**
+- 1st Layer Speed: 30mm  **keep it slow**
+- Bed Temp 1st Layer: 60C
+- Bed Temp Other Layers: 55C
+- Extruder Temp 1st Layer: 115C
+- Extruder Temp Other Layers: 110C
+- (Brims are good thing.)
+
+Notes here are that 1st layer height, width, and speed will affecgt how well your plastic "mushes itself into the glass" which will affect how well it is heated.  The essentium PLA does not like a 30C drop in temp and is not recommended with a bed temp of 70C. I got warping and lifting trying that.  Also works at "208/55C and 202/55C" in my cooler print setting.  The configuration guide hints at a starting place but doesn't quite call out how this all works together.
+
+
 ## Software: "A-"
 
 Slic3r and Repetier-Host are excellent starting places.  Prusa also has a version of Slic3r that may be worth using.  The RepRapGuru firmware is based on an older version of Marlin.
 
-If you plan on using the current version of Marlin you need the RRG settings copied over.  I have a version of this firmware (ADD POINTER HERE).
+If you plan on using the current version of Marlin you need the RRG settings copied over.  I have a version of the 1.1.6 firmware at <https://github.com/brennane/RRG-Marlin> look at the "example_configuration/RepRapGuru/V2" directory.  But if you like current releases and off-the-shelf this has not, at least, hosed my printer.
 
 ##  Service and Support: "A+"
 
@@ -103,6 +120,8 @@ Where I found the parts okay to slightly subpar I also find the service from the
 rectify some of these.  They answered my email on Saturday, have sent me a replacement part for my extruder feeder along with tracking information.  They eyeballed from one of my first test prints that "hey, you have your filament too hot" which wasn't even what I asked.
 
 I did try calling their number which went to voicemail.  But I believe if you do your homework, ask a specific question such as "hey, this doesn't look right" you should be able to engage a good support conversation.  Keep in mind that you are engaging a business correspondance so do your half and they'll do theirs.
+
+These guys are US.  The company is US, the parts might be from overseas suppliers but that's a different thing; remember even your phone are made overseas.   They shipped my replacement from somewhere on the East Coast.  Good people.
 
 ## Reviewer Adjustment: "positive"
 
