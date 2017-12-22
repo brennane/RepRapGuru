@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.image-wrapper{
+  max-width: 70%;
+  height:auto;
+  position: relative;
+  display:block;
+  margin:0 auto;
+}
+
+.image-wrapper img{
+  max-width:100% !important;
+  height:auto;
+  display:block;
+}
