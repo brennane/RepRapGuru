@@ -66,7 +66,7 @@ When I did my build the build manual is version 1.4; configuration manual versio
 
 _This is not included in this kit_. What is provided is substandard, in my humble opinion.  It attaches to your wall, I think.  See the picture of mine with a printed hub to center the spool.
 
-![Ghetto Spool Holder](images/spool_holder.jpg)
+![Ghetto Spool Holder](images/sad_rrg_spool_holder.jpg)
 
 ### Build Manual: "B"
 
