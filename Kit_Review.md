@@ -1,6 +1,6 @@
 # Kit quality
 
-Worth buying?  A qualified yes.
+Worth buying?  A qualified yes!
 
 Buy it if you are relatively confident in tinkering and willing to accept having to figure out whether you are facing a part problem, build problem, or calibration issue.
 
