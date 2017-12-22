@@ -76,7 +76,9 @@ bits in some of the molded plastic parts.  The manual gets a little confusing wh
 
 The manual is generally easy to follow with some few exceptions.  Getting the stops correct requires a little thinking.  One
 thing lacking in this manual was how to lay out all the wires.  As noted elsewhere the kit comes with just a few zip ties, and no wrapping for the wires.  On top of that, how you actually lay these out should be diagrammed somewhere.  Mine looks like
-something I would find buried in my car electronics.
+something I would find buried under the hood in my truck.
+
+Page 17 shows the left and right side panels.  I installed my backwards because I was not aware the center frame has a left and right side orientation as well.  From the front (fins stick out to the back) the LCD knob hole needs to be on the right side.  In my case this just means I'll print out an LCD display and remount it elsewhere ... better for me anyhow.
 
 ### Configuration Manual: "B"
 
