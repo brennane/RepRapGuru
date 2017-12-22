@@ -85,7 +85,7 @@ something I would find buried in my car electronics.
 
 The configuration manual has some information on setting up Repetier Host and Slic3r.  However beyond that you are left guessing which of the config settings you should copy and which you should not.  Most of these settings (now that I know better) are decent but this needs more text to explain _why_ they deviate from the defaults.
 
-### Calibration: "F"
+### Calibration: "C"
 
 Sadly where the kit fails is what to do after setting it up.  Head on over to thingiverse or tinkercad and download some test files.  3DBenchy is a popular calibration print.  I found that a window from a gingerbread house (tall, relatively small, four hard corners) was perfect to dial in the warping and bed adhesion issues.
 
@@ -108,7 +108,7 @@ Right now plan on hitting external documentation, You Tube, and forums on how to
 Notes here are that 1st layer height, width, and speed will affecgt how well your plastic "mushes itself into the glass" which will affect how well it is heated.  The essentium PLA does not like a 30C drop in temp and is not recommended with a bed temp of 70C. I got warping and lifting trying that.  Also works at "208/55C and 202/55C" in my cooler print setting.  The configuration guide hints at a starting place but doesn't quite call out how this all works together.
 
 
-## Software: "A-"
+## Software: "A"
 
 Slic3r and Repetier-Host are excellent starting places.  Prusa also has a version of Slic3r that may be worth using.  The RepRapGuru firmware is based on an older version of Marlin.
 
