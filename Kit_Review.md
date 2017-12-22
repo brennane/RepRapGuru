@@ -27,13 +27,13 @@ the most popular would be an auto-level sensor, easily enough to add.  The next 
 
 A failing in this kit is its mediocre solution for a filament spool holder.  Prepare yourself to print something up.  The provided pieces of acrylic are designed to hang on a wall mount of some sort.
 
-## Parts: "B" to "B-"
+## Parts: mixed "B" and "C"
 
 Let's say a "C" would indicate measurable build quality issues or minimal kit.  On the other end for an "A"  may indicates a top-of-the line where we could use the Prusa branded "Prusa i3" as a baseline.
 
-Electronics. (A) Pefect for a dive into the DIY 3d world.   No issue with the arduino clone or the RAMPS 1.4 daugher board.   The stepper motor drivers were largely okay but I two nits with those: they could use a little sanding to make them not overlap with each other; second, the potentiometer on those are really finicky (adjustable with a philips screwdriver) it took me a long time to get those tuned.
+Electronics. (B) Pefect for a dive into the DIY 3d world.   No issue with the arduino clone or the RAMPS 1.4 daugher board.   The stepper motor drivers were largely okay but I two nits with those: they could use a little sanding to make them not overlap with each other; second, the potentiometer on those are really finicky (adjustable with a philips screwdriver) it took me a long time to get those tuned.
 
-Stepper motors. (A-) I found the same NEMA17 1.8deg motors used elsewhere on machines without too much problem.  They work just fine.
+Stepper motors. (B+) I found the same NEMA17 1.8deg motors used elsewhere on machines without too much problem.  They work just fine.  I would say "A" range motors would be in the 0.9deg range and only slightly more expensive. 
 
 Frame is well enough, nothing fancy but put together well enough.  Blue (removable) loctite for the large threaded supports iis needed if you don't want the printer to shake itself apart. (B+)
 
@@ -157,5 +157,4 @@ If you are DIY'er then go have fun and expect some bumps.  If you are buying thi
 - A little better than basic understanding of mechanical components
 - A little better than basic computer skills
 
-In particular what swung me from negative to positive is the help from the support folks.
-
+This is exactly the sort of kit I would expect at this price point, except for the one piece that did fail me (but support fixed that) ... in particular what swung me from negative to positive is the help from the support folks.
