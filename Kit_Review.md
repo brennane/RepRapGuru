@@ -8,11 +8,11 @@ Buy it if you are relatively confident in tinkering and willing to accept having
 
 I think its a relatively complete kit with some minor issues.  If you want a frustration-free build experience for a Prusa i3 printer ...  you might want to spend a lot more and get a Prusa i3 kit for many times tthe cost of this kit:  for a clone I am happy at this price point.
 
-- Parts: mixed review, generally the parts are good generic clones.  But everything is a clone.  I did find some issues with my parts that needed revision.
+- Parts: I did find some issues with my parts that needed revision.  Most (all) parts a generic ones you will find for DIY kits on 3d forums, etc.
 - Completeness: This is a good functional printer, but lacks some of the nicer touches other kits have such as auto-leveling and a good quality filament spool.
 - Documentation: Build manual is most of the time easy to follow, but it references older iterations of the hardware which makes things such as the "bill of materials" not quite match up with the current kit.  It also ends abruptly without providing advice on how to get to your first successful print after getting the software installed.
-- Software: Open Source and Open Source software.  This is good since the DIY and reprap community is alive and well.
-- Service: I have exchanged emails with the service team a few times and have a good feeling about their customer support.
+- Software: Open Source and Open Source software.  The newer slic3r and (look for the Prusa Slic3r build) are really quite functional.
+- Service: I have exchanged emails with the service team a few times and have a good feeling about their customer support where they helped troubleshoot some problems I faced.  They also replaced a faulty part in my kit.
 
 ## Completeness: "B+"
 
@@ -28,7 +28,7 @@ the most popular would be an auto-level sensor, easily enough to add.  The next 
 
 A failing in this kit is its mediocre solution for a filament spool holder.  Prepare yourself to print something up.  The provided pieces of acrylic are designed to hang on a wall mount of some sort.  But really these are not 
 
-## Parts: "B" to "C+"
+## Parts: "B" to "B-"
 
 Grading criteria: a "C" would indicate measurable build quality issues or minimal kit (e.g. no heat bed).
 "A" indicates a top-of-the line where we could use the "Prusa Kit" as a baseline.
@@ -56,7 +56,7 @@ Electronics.  No issue with the arduino clone or its RAMPS 1.4 daugher board.  T
 
 Frame is well enough, nothing fancy but put together well enough.  I do recommend the blue (removable) loctite for the large threaded supports if you don't want your printer to shake itself apart.
 
-## Documentation: "B-"
+## Documentation: "B"
 
 I am rather "old school" when it comes to unboxing things.  I like packing slips or bills of materials.  The box came with a single sheet with a pointer to google drive.  The documentation and support files are here:
 
@@ -64,11 +64,11 @@ I am rather "old school" when it comes to unboxing things.  I like packing slips
 
 When I did my build the build manual is version 1.4; configuration manual version 1.1.  My notes reference these documents from late August, 2017.
 
-### Spool Holder: "F"
+### Spool Holder: "D"
 
 _This is not included in this kit_. What is provided is substandard, in my humble opinion.  It attaches to your wall, I think.  See the picture of mine with a printed hub to center the spool.
 
-### Build Manual: "B-"
+### Build Manual: "B"
 
 Bill of Materials incorrect with one of the bags: there's an amazon review out there that calls this out too.
 I think it was bag No. 2.  There are some large nuts not listed and the counts don't add up.  Don't worry, march on, 
@@ -81,7 +81,7 @@ The manual is generally easy to follow with some few exceptions.  Getting the st
 thing lacking in this manual was how to lay out all the wires.  As noted elsewhere the kit comes with just a few zip ties, and no wrapping for the wires.  On top of that, how you actually lay these out should be diagrammed somewhere.  Mine looks like
 something I would find buried in my car electronics.
 
-### Configuration Manual: "B-"
+### Configuration Manual: "B"
 
 The configuration manual has some information on setting up Repetier Host and Slic3r.  However beyond that you are left guessing which of the config settings you should copy and which you should not.  Most of these settings (now that I know better) are decent but this needs more text to explain _why_ they deviate from the defaults.
 
@@ -97,12 +97,12 @@ Slic3r and Repetier-Host are excellent starting places.  Prusa also has a versio
 
 If you plan on using the current version of Marlin you need the RRG settings copied over.  I have a version of this firmware (ADD POINTER HERE).
 
-##  Service and Support: "A-"
+##  Service and Support: "A+"
 
 Where I found the parts okay to slightly subpar I also find the service from their support team willing and able to
 rectify some of these.  They answered my email on Saturday, have sent me a replacement part for my extruder feeder along with tracking information.  They eyeballed from one of my first test prints that "hey, you have your filament too hot" which wasn't even what I asked.
 
-I did try calling their number which went to voicemail.  But I believe if you do your homework, ask a specific question such as "hey, this doesn't look right" you should be able to engage a good support conversation.
+I did try calling their number which went to voicemail.  But I believe if you do your homework, ask a specific question such as "hey, this doesn't look right" you should be able to engage a good support conversation.  Keep in mind that you are engaging a business correspondance so do your half and they'll do theirs.
 
 ## Reviewer Adjustment: "positive"
 
@@ -111,4 +111,3 @@ Finally, after writing this review.  I think it edges slightly more pessimistic.
 - A little better than basic understanding of electronics
 - A little better than basic understanding of mechanical components
 - A little better than basic computer skills
-
