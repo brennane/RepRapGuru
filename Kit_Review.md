@@ -4,9 +4,9 @@ Worth buying?  A qualified yes.
 
 Buy it if you are relatively confident in tinkering and willing to accept having to figure out whether you are facing a part problem, build problem, or calibration issue.
 
-## Overall: "B"
+## Overall:
 
-I think its a relatively complete kit with some minor issues.  If you want a frustration-free build experience for a Prusa i3 printer ...  you might want to spend a lot more and get a Prusa i3 kit for many times tthe cost of this kit:  for a clone I am happy at this price point.
+I think its a relatively complete kit with minor issues.  If you want a frustration-free build experience for a Prusa i3 printer ...  you might want to spend a lot more and get a Prusa i3 kit for many times tthe cost of this kit:  for a clone I am happy at this price point.
 
 - Parts: I did find some issues with my parts that needed revision.  Most (all) parts a generic ones you will find for DIY kits on 3d forums, etc.
 - Completeness: This is a good functional printer, but lacks some of the nicer touches other kits have such as auto-leveling and a good quality filament spool.
@@ -126,7 +126,7 @@ These guys are US.  The company is US, the parts might be from overseas supplier
 
 ## Reviewer Adjustment: "positive"
 
-Finally, after writing this review.  I think it edges slightly more pessimistic.  If you are DIY'er then go have fun and expect some bumps.  If you are buying this as a christmas present for a family member, be prepared to help out.  The build manual opens with this expection which I think is appropriate for this kit:
+Finally, after writing this review.  I think it edges slightly  pessimistic.  If you are DIY'er then go have fun and expect some bumps.  If you are buying this as a christmas present for a family member, be prepared to help out.  The build manual opens with this expection which I think is appropriate for this kit:
 
 - A little better than basic understanding of electronics
 - A little better than basic understanding of mechanical components
