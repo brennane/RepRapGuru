@@ -31,25 +31,25 @@ A failing in this kit is its mediocre solution for a filament spool holder.  Pre
 
 Let's say a "C" would indicate measurable build quality issues or minimal kit.  On the other end for an "A"  may indicates a top-of-the line where we could use the Prusa branded "Prusa i3" as a baseline.
 
-### Less happy with
+Electronics. (A) Pefect for a dive into the DIY 3d world.   No issue with the arduino clone or the RAMPS 1.4 daugher board.   The stepper motor drivers were largely okay but I two nits with those: they could use a little sanding to make them not overlap with each other; second, the potentiometer on those are really finicky (adjustable with a philips screwdriver) it took me a long time to get those tuned.
 
-This hot end has me hot and bothered!  My biggest gripe is with the "extruder feeder" - the part that pulls the
+Stepper motors. (A-) I found the same NEMA17 1.8deg motors used elsewhere on machines without too much problem.  They work just fine.
+
+Frame is well enough, nothing fancy but put together well enough.  Blue (removable) loctite for the large threaded supports iis needed if you don't want the printer to shake itself apart. (B+)
+
+This hot end has me hot and bothered! (C)  My biggest gripe is with the "extruder feeder" - the part that pulls the
 filament to the hot end.  On my kit the spring was far light and as such the filament would not feed properly and my
 results, esp. on inner fills, show missing lines and inpartial fills.  RRG support worked with me over the course of a week and helped me get this right.  I worry about others may notice the extruder feeder slipping (clicking and stalling during prints).
 
-The borosciliate glass was slightly too big for my build plate once the nuts were added.  I used a dremel and sand
+The borosciliate glass was slightly too big for my build plate once the nuts were added. (B-)  I used a dremel and sand
 small scoopes in the chamfered corner sections.  This did not take much work but was arguably more danger than I was
 looking for as a small piece chipped away.
 
-The linear bearings have a bit of grind as much as they have roll.  A little grease and the stepper motors don't seem to mind.  I will likely upgrade these.
+The linear bearings have a bit of grind as much as they have roll. (B)  A little grease and the stepper motors don't seem to mind.  I will likely upgrade these.
 
-The chord to the power supply uses the following color codes:  yellow, blue, red.  The build manual hints at some of these non-standard color codes but I didn't find a match for this.  I used alligator clips and an outlet tester to confirm which is the load, neutral and ground, From what I gather this chord is an old European color code that is no longer standard ... but using a US end?  It's weird.   This typifies what I think RRG is doing: finding good, but cheap parts, that work with few exceptions.  To fill the gap they have a good support team to help customers through the build process.
+The chord to the power supply uses the following color codes:  yellow, blue, red. (C for danger)  The build manual hints at some of these non-standard color codes but I didn't find a perfect match for this in the guide and I really didn't want fry the thing.
 
-### Happier with
-
-Electronics.  No issue with the arduino clone or the RAMPS 1.4 daugher board.   The stepper motor drivers were largely okay but I have two small complaints with those: first, they could use a little sanding to make them not overlap with each other; second, the potentiometer on those are really finicky (adjustable with a philips screwdriver) it took me a long time to get those tuned.
-
-Frame is well enough, nothing fancy but put together well enough.  I do recommend the blue (removable) loctite for the large threaded supports if you don't want your printer to shake itself apart.
+I used alligator clips and an outlet tester to confirm which is the load, neutral and ground, From what I gather this chord is an old European color code that is no longer standard ... but using a US end?  It's weird.   This typifies what I think RRG is doing: finding good, but cheap parts, that work with few exceptions.  To fill the gap they have a good support team to help customers through the build process.
 
 ## Documentation: "B"
 
@@ -82,7 +82,7 @@ something I would find buried in my car electronics.
 
 The configuration manual has some information on setting up Repetier Host and Slic3r.  However beyond that you are left guessing which of the config settings you should copy and which you should not.  Most of these settings (now that I know better) are decent but this needs more text to explain _why_ they deviate from the defaults.
 
-### Post build calibration: "C+"
+### Post build calibration: "C"
 
 That is ... where to go to next.  This is super easy to forget if you know something about 3D printing.  I, however, am quite the naif when it comes to this world.
 
