@@ -10,3 +10,8 @@
 ## Spool Holder
 
 ![Alt Text](sad_rrg_spool_holder.jpg?s=500 "RRG V2 supplied spool holder")
+
+
+Trying with github include magic.
+
+ {% include image.html url="sad_rrg_spool_holder.jpg" description="RRG V2 supplied spool holder" %} 
