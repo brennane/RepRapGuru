@@ -4,7 +4,7 @@ Worth buying?  A qualified yes.
 
 Buy it if you are relatively confident in tinkering and willing to accept having to figure out whether you are facing a part problem, build problem, or calibration issue.
 
-## Overall:
+## Overall: "B" to "B+"
 
 I think its a relatively complete kit with minor issues.  If you want a frustration-free build experience for a Prusa i3 printer ...  you might want to spend a lot more and get a Prusa i3 kit for many times tthe cost of this kit:  for a clone I am happy at this price point.
 
@@ -34,23 +34,20 @@ Let's say a "C" would indicate measurable build quality issues or minimal kit.  
 ### Less happy with
 
 This hot end has me hot and bothered!  My biggest gripe is with the "extruder feeder" - the part that pulls the
-filament to the hot end.  On my kit the spring was too light and as such the filament would not feed properly and my
-results, esp. on inner fills, show missing lines and inpartial fills.  I still have a problem with the gear slipping
-with my home-grown spring replacement.  RRG service is sending me a replacement part and I will update with that result.
+filament to the hot end.  On my kit the spring was far light and as such the filament would not feed properly and my
+results, esp. on inner fills, show missing lines and inpartial fills.  RRG support worked with me over the course of a week and helped me get this right.  I worry about others may notice the extruder feeder slipping (clicking and stalling during prints).
 
 The borosciliate glass was slightly too big for my build plate once the nuts were added.  I used a dremel and sand
 small scoopes in the chamfered corner sections.  This did not take much work but was arguably more danger than I was
 looking for as a small piece chipped away.
 
-The linear bearings have as much "grind" as they have roll.  Thankfully the stepper motors are willing to ignore this and I have some lubrication around.  I'll think of them as sliders until I replace them some day.
+The linear bearings have a bit of grind as much as they have roll.  A little grease and the stepper motors don't seem to mind.  I will likely upgrade these.
 
-The chord to the power supply uses the following color codes:  yellow, blue, red.  Even the build manual do not identify which is which.  I used a wall tester, alligator clips and a moment of danger to confirm the assignment. (I describe this in my build notes).  From what I gather, the chord is not US standard but an old European color code.  This typifies what I think RRG is doing: finding good, but cheap parts, that work with few exceptions.  To fill the gap they have a good support team to help customers through the build process.
-
-Kit lacked enough zip ties and didn't have any chord wrap as their pictured unit shows.  So you can't actually build that picture with the nice wrapped chords without purchasing other bits.  This is a minor nit compared to the other parts.
+The chord to the power supply uses the following color codes:  yellow, blue, red.  The build manual hints at some of these non-standard color codes but I didn't find a match for this.  I used alligator clips and an outlet tester to confirm which is the load, neutral and ground, From what I gather this chord is an old European color code that is no longer standard ... but using a US end?  It's weird.   This typifies what I think RRG is doing: finding good, but cheap parts, that work with few exceptions.  To fill the gap they have a good support team to help customers through the build process.
 
 ### Happier with
 
-Electronics.  No issue with the arduino clone or its RAMPS 1.4 daugher board.  The stepper motor drivers were largely okay but I have two small complaints with those: first, they could use a little sanding to make them not overlap with each other; second, the potentiometer on those are really finicky (adjustable with a philips screwdriver) it took me a long time to get those tuned.
+Electronics.  No issue with the arduino clone or the RAMPS 1.4 daugher board.   The stepper motor drivers were largely okay but I have two small complaints with those: first, they could use a little sanding to make them not overlap with each other; second, the potentiometer on those are really finicky (adjustable with a philips screwdriver) it took me a long time to get those tuned.
 
 Frame is well enough, nothing fancy but put together well enough.  I do recommend the blue (removable) loctite for the large threaded supports if you don't want your printer to shake itself apart.
 
@@ -62,11 +59,11 @@ I am rather "old school" when it comes to unboxing things.  I like packing slips
 
 When I did my build the build manual is version 1.4; configuration manual version 1.1.  My notes reference these documents from late August, 2017.
 
-### Spool Holder: "D"
+### Spool Holder: "C"
 
 _This is not included in this kit_. What is provided is substandard, in my humble opinion.  It attaches to your wall, I think.  See the picture of mine with a printed hub to center the spool.
 
-![Ghetto Spool Holder](images/sad_rrg_spool_holder.jpg)
+ {% include image.html url="images/sad_rrg_spool_holder.jpg" description="RRG Spool Holder" %} 
 
 ### Build Manual: "B"
 
@@ -85,27 +82,44 @@ something I would find buried in my car electronics.
 
 The configuration manual has some information on setting up Repetier Host and Slic3r.  However beyond that you are left guessing which of the config settings you should copy and which you should not.  Most of these settings (now that I know better) are decent but this needs more text to explain _why_ they deviate from the defaults.
 
-### Calibration: "C"
+### Post build calibration: "C+"
 
-Sadly where the kit fails is what to do after setting it up.  Head on over to thingiverse or tinkercad and download some test files.  3DBenchy is a popular calibration print.  I found that a window from a gingerbread house (tall, relatively small, four hard corners) was perfect to dial in the warping and bed adhesion issues.
+That is ... where to go to next.  This is super easy to forget if you know something about 3D printing.  I, however, am quite the naif when it comes to this world.
+
+So here my notes after playing with the build for a week.  Head on over to thingiverse or tinkercad and download some test files.  3DBenchy is a popular calibration print.  I found that a window from a recent gingerbread house design perfect to dial in the warping and bed adhesion issues.
 
 Right now plan on hitting external documentation, You Tube, and forums on how to dial in the printer to get good prints.  I wish there was a booklet on "getting a good PLA print".  This is hinted at in the Configuration manual as there are settings, but it assumes too much.
 
-**Level your bed properly and set the Z stop** I did my prints with **Essentium PLA**.  I chose this company because they are US made, are a top-tier player in the 3d filament world and are working directly with BASF to develop filaments.  Expensive but for dialing in your printer I would choose expensive top quality over a cheap product.
+First: Level your bed properly and set the Z stop.
 
-![PLA calibration prints](images/pla_calibration_print.jpg)
+Second: Budget time to figure out temperature and bed settings.  I burned through about a 0.4kg of filament working through various settings.  Let me share a deviation that I ended up which differs from the "starting place" in the configuraiton manual.
+
+Here are some of calibration my prints with **Essentium PLA**.  I chose this company because they are US made, are a top-tier player in the 3d filament world and are involved with developing high end filamennts.  When it comes to PLA you'll find a few different tiers.  This stuff is good for "functional parts" (like gears) others are also US made but perhaps a different grade of PLA designed for more general use.  This often noticed in the the cheaper $25/1kg vs the $30/.75kg ranges of filament.
+
+ {% include image.html url="images/pla_calibration_print.jpg" description="PLA calibration prints" %} 
 
 - Layer Height: 0.2mm
 - 1st Layer Height: 0.35mm **no more than your nozzel width**
-- 1st Layer Extrusion Width: 175%  **150% to 175%**
+- 1st Layer Extrusion Width: 175% **smaller traces 150-175 than default**
 - 1st Layer Speed: 30mm  **keep it slow**
 - Bed Temp 1st Layer: 60C
 - Bed Temp Other Layers: 55C
 - Extruder Temp 1st Layer: 115C
 - Extruder Temp Other Layers: 110C
-- (Brims are good thing.)
+- (I find brims are good thing.)
 
-Notes here are that 1st layer height, width, and speed will affecgt how well your plastic "mushes itself into the glass" which will affect how well it is heated.  The essentium PLA does not like a 30C drop in temp and is not recommended with a bed temp of 70C. I got warping and lifting trying that.  Also works at "208/55C and 202/55C" in my cooler print setting.  The configuration guide hints at a starting place but doesn't quite call out how this all works together.
+My calibration print objects are:
+
+- gingerbread window : <https://www.thingiverse.com/thing:2633832>
+- gears from (because: gears!) <https://www.thingiverse.com/thing:2405185>
+- thumb wheel (scaled 0.6) from <https://www.thingiverse.com/thing:1659528>
+- 3d benchy (not pictured)
+
+Notes:
+
+- 1st layer height, width, and speed will affecgt how well your plastic "mushes itself into the glass".  You want to see a good buttery print down there.
+- Essentium PLA does not like a 30C drop in temp and is not recommended with a bed temp of 70C. I got warping and lifting trying that. Their spec sheet mentions 190-230C but a bed temp max at 60C
+- I also have good prints at "208/55C and 202/55C" with this filament.
 
 Last thing to say here:  where to go next?  thingiverse and tinkercad.  At least that's where _I_ went.
 
