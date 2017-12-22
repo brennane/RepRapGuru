@@ -125,6 +125,11 @@ Notes:
 
 Last thing to say here:  where to go next?  thingiverse and tinkercad.  At least that's where _I_ went.
 
+Useful links:
+
+- <https://pinshape.com/blog/5-causes-of-a-nozzle-jam-and-how-to-fix-it/> Nozzel Jam
+- <https://typeamachines.zendesk.com/hc/en-us/articles/205715759-Making-your-prints-stay-put> Helped me figure out print settings.
+
 ## Software: "A"
 
 Slic3r and Repetier-Host are excellent starting places.  Prusa also has a version of Slic3r that may be worth using.  The RepRapGuru firmware is based on an older version of Marlin.
