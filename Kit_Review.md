@@ -33,6 +33,8 @@ Let's say a "C" would indicate measurable build quality issues or minimal kit.  
 
 Electronics. (B) Pefect for a dive into the DIY 3d world.   No issue with the arduino clone or the RAMPS 1.4 daugher board.   The stepper motor drivers were largely okay but I two nits with those: they could use a little sanding to make them not overlap with each other; second, the potentiometer on those are really finicky (adjustable with a philips screwdriver) it took me a long time to get those tuned.
 
+Heated bed (B).  It works but its also a little saggy.  I clipped on all four sides to address this.
+
 Stepper motors. (B+) I found the same NEMA17 1.8deg motors used elsewhere on machines without too much problem.  They work just fine.  I would say "A" range motors would be in the 0.9deg range and only slightly more expensive. 
 
 Frame is well enough, nothing fancy but put together well enough.  Blue (removable) loctite for the large threaded supports iis needed if you don't want the printer to shake itself apart. (B+)
