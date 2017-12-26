@@ -9,11 +9,18 @@ Should you listen me then?  There's a good question!  All I can say to that end 
 There were things that frustrated me and I quite imagine could baffle someone who is not a programmer or someone who is hobby-minded.  I hope these notes help you overcome similar problems.
 
 
-# Kit Review
+# [Kit Review](Kit_Review)
 
-Would I recommend getting this kit:  A qualified _yes!_
+## Would I recommend getting this kit?
 
-**[Kit Review](Kit_Review)**
+I think the answer depends on your ability for DIY projects.  I initially said a _qualified yes_ but
+I am having a fair number of issues with my kit.   It's for DIY'ers who can program, use a multi-meter, 
+troubleshoot issues, possibly engage forums or support to figure out which end is up.  The strongest elements
+of the build are the support and rather simple walk-through of the build.  The weakest parts are the generic
+quality of the parts and for the newbie (like me) how to separate hardware issues and my experience working
+in a Fortune 100 company vs what you expectfrom a small shop. 
+
+- Check out my detailed [Kit Review](Kit_Review)
 
 # Build notes
 
