@@ -39,7 +39,7 @@ Things that have troubled me
 - The hot end in my kit (a critical component) did not feed properly.  Support helped me out.
 - The heated bed on my kit has troubled getting to 100C  (takes fifteen minutes) -- am _working_ with support on this issue.
   PCB droops so I have to clip all four sides.  Resistance on the bed measures 1.6 Ohms which by some accounts is too high 
-  for this board ... but **finding technical specs on _any_ of these parts is impossible.**
+  for this board. _Finding technical specs on any of these parts is difficult._
 - glass plate was a few mm too big for the heatbed ... required using my dremel to bore out corners to fit
 - filament spool does not match description at amazon
 
