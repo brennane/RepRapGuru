@@ -1,57 +1,49 @@
 # Kit quality
 
-Worth buying?  A qualified yes!
+Worth buying?  _Maybe!_
 
-Buy it if you are relatively confident in tinkering and willing to accept having to figure out whether you are facing a part problem, build problem, or calibration issue.
+If you are relatively confident in tinkering and willing to accept the challenge it can be a rewarding experience. I have learned a lot but I have some issues.
 
-## Overall: "B+"
+## Overall: "B- / C+"
 
-I think its a relatively complete kit with minor issues.  If you want a frustration-free build experience for a Prusa i3 printer ...  you might want to spend a lot more and get a Prusa i3 kit for many times tthe cost of this kit:  for a clone I am happy at this price point.
+I think its a relatively complete kit with issues.  If you want a frustration-free build experience this kit contains too many small hazards.
 
 - Parts: I did find some issues with my parts that needed revision.  Most (all) parts a generic ones you will find for DIY kits on 3d forums, etc.
 - Completeness: This is a good functional printer, but lacks some of the nicer touches other kits have such as auto-leveling and a good quality filament spool.
-- Documentation: Build manual is most of the time easy to follow, but it references older iterations of the hardware which makes things such as the "bill of materials" not quite match up with the current kit.  It also ends abruptly without providing advice on how to get to your first successful print after getting the software installed.
+- Documentation: Build manual is most of the time easy to follow but it references older iterations of the hardware which makes things such as the "bill of materials" not quite match up with the current kit.  It also ends abruptly without providing advice on how to get to your first successful print after getting the software installed.
 - Software: Open Source and Open Source software.  The newer slic3r and (look for the Prusa Slic3r build) are really quite functional.
 - Service: I have exchanged emails with the service team a few times and have a good feeling about their customer support where they helped troubleshoot some problems I faced.  They also replaced a faulty part in my kit.
 
 ## Completeness: "B+"
 
-The kit has a heated glass bed.  This will be useful functionality that better kits ought to have; lesser kits on Amazon will lack this.  The build plate is of a nice size, giving a 200mm square build service.
-
-The kit is also very Open Source and uses parts one could source as part of the DIY community.  That means there is probably a solution for you confusion and ideas on where to go next.
-
 With this kit you should end up with solid foundation for printing PLA, PETG, and ABS.  Getting into more exotic materials
 like wood or carbon reinforced plastics will require minor but accessible and affordable tweaks.  With a little effort,
-and there will be some, this should be a satisfying project.   There are upgrades that this kit does not contain, perhaps
-the most popular would be an auto-level sensor, easily enough to add.  The next would be an upgrade to an E3D hotend.
+and there will be some, this should be a satisfying project. 
 
-A failing in this kit is its mediocre solution for a filament spool holder.  Prepare yourself to print something up.  The provided pieces of acrylic are designed to hang on a wall mount of some sort.
+A failing in this kit is its mediocre solution for a filament spool holder, does not match the seller description on Amazon.
 
-## Parts: mixed "B" and "C"
+## Parts: "C"
 
 Let's say a "C" would indicate measurable build quality issues or minimal kit.  On the other end for an "A"  may indicates a top-of-the line where we could use the Prusa branded "Prusa i3" as a baseline.
 
-Electronics. (B) Pefect for a dive into the DIY 3d world.   No issue with the arduino clone or the RAMPS 1.4 daugher board.   The stepper motor drivers were largely okay but I two nits with those: they could use a little sanding to make them not overlap with each other; second, the potentiometer on those are really finicky (adjustable with a philips screwdriver) it took me a long time to get those tuned.
+Things that worked well in my kit
 
-Heated bed (B).  It works but its also a little saggy.  I clipped on all four sides to address this.
+- Electronics:
+   - Arduino clone
+   - RAMPS board and stepper drivers
+   - stepper motors
+- Frame, bolts, no missing parts
 
-Stepper motors. (B+) I found the same NEMA17 1.8deg motors used elsewhere on machines without too much problem.  They work just fine.  I would say "A" range motors would be in the 0.9deg range and only slightly more expensive. 
+Things that have troubled me
 
-Frame is well enough, nothing fancy but put together well enough.  Blue (removable) loctite for the large threaded supports iis needed if you don't want the printer to shake itself apart. (B+)
+- The hot end in my kit (a critical component) did not feed properly.  Support helped me out.
+- The heated bed on my kit has troubled getting to 100C  (takes fifteen minutes) -- am _working_ with support on this issue.
+  PCB droops so I have to clip all four sides.  Resistance on the bed measures 1.6 Ohms which by some accounts is too high 
+  for this board ... but **finding technical specs on _any_ of these parts is impossible.**
+- glass plate was a few mm too big for the heatbed ... required using my dremel to bore out corners to fit
+- filament spool does not match description at amazon
 
-This hot end has me hot and bothered! (C)  My biggest gripe is with the "extruder feeder" - the part that pulls the
-filament to the hot end.  On my kit the spring was far light and as such the filament would not feed properly and my
-results, esp. on inner fills, show missing lines and inpartial fills.  RRG support worked with me over the course of a week and helped me get this right.  I worry about others may notice the extruder feeder slipping (clicking and stalling during prints).
-
-The borosciliate glass was slightly too big for my build plate once the nuts were added. (B-)  I used a dremel and sand
-small scoopes in the chamfered corner sections.  This did not take much work but was arguably more danger than I was
-looking for as a small piece chipped away.
-
-The linear bearings have a bit of grind as much as they have roll. (B)  A little grease and the stepper motors don't seem to mind.  I will likely upgrade these.
-
-The chord to the power supply uses the following color codes:  yellow, blue, red. (C for danger)  The build manual hints at some of these non-standard color codes but I didn't find a perfect match for this in the guide and I really didn't want fry the thing.
-
-I used alligator clips and an outlet tester to confirm which is the load, neutral and ground, From what I gather this chord is an old European color code that is no longer standard ... but using a US end?  It's weird.   This typifies what I think RRG is doing: finding good, but cheap parts, that work with few exceptions.  To fill the gap they have a good support team to help customers through the build process.
+     {% include image.html url="images/sad_rrg_spool_holder.jpg" description="RRG Spool Holder" %} 
 
 ## Documentation: "B"
 
@@ -60,12 +52,6 @@ I am rather "old school" when it comes to unboxing things.  I like packing slips
 - [Reprap Guru Prusa i3](https://drive.google.com/open?id=0B4A3jLWIXeoFfkxURVdhMEFpTWpsSExncXFmUGpkalczX3ZvS1J6bGNabGdWM2NwaWNuS0k)
 
 When I did my build the build manual is version 1.4; configuration manual version 1.1.  My notes reference these documents from late August, 2017.
-
-### Spool Holder: "C"
-
-_This is not included in this kit_. What is provided is substandard, in my humble opinion.  It attaches to your wall, I think.  See the picture of mine with a printed hub to center the spool.
-
- {% include image.html url="images/sad_rrg_spool_holder.jpg" description="RRG Spool Holder" %} 
 
 ### Build Manual: "B"
 
@@ -82,13 +68,13 @@ something I would find buried under the hood in my truck.
 
 Page 17 shows the left and right side panels.  I installed my backwards because I was not aware the center frame has a left and right side orientation as well.  From the front (fins stick out to the back) the LCD knob hole needs to be on the right side.  In my case this just means I'll print out an LCD display and remount it elsewhere ... better for me anyhow.
 
-### Configuration Manual: "B"
+### Configuration Manual: "C"
 
 The configuration manual has some information on setting up Repetier Host and Slic3r.  However beyond that you are left guessing which of the config settings you should copy and which you should not.  Most of these settings (now that I know better) are decent but this needs more text to explain _why_ they deviate from the defaults.
 
-### Post build calibration: "C"
+#### Printer calibration: "C"
 
-That is ... where to go to next.  This is super easy to forget if you know something about 3D printing.  I, however, am quite the naif when it comes to this world.
+Where to go to next?  
 
 So here my notes after playing with the build for a week.  Head on over to thingiverse or tinkercad and download some test files.  3DBenchy is a popular calibration print.  I found that a window from a recent gingerbread house design perfect to dial in the warping and bed adhesion issues.
 
@@ -151,12 +137,12 @@ These guys are a US company.  That's not to say all the parts are from the US ..
 
 Good people.
 
-## Reviewer Adjustment: "positive"
+## Reviewer Adjustment: "neutral"
 
-If you are DIY'er then go have fun and expect some bumps.  If you are buying this as a christmas present for a family member, be prepared to help out.  The build manual opens with this expection which I think is appropriate for this kit:
+The build manual opens with this expection which I think is appropriate for this kit:
 
 - A little better than basic understanding of electronics
 - A little better than basic understanding of mechanical components
 - A little better than basic computer skills
 
-This is exactly the sort of kit I would expect at this price point, except for the one piece that did fail me (but support fixed that) ... in particular what swung me from negative to positive is the help from the support folks.
+This is exactly the sort of kit I would expect at this price point, the number of poor marks I have with having trouble calibrating my machine, it failing my ABS and PET prints on current Marlin give me considerable pause.
