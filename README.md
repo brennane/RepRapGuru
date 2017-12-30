@@ -11,16 +11,17 @@ There were things that frustrated me and I quite imagine could baffle someone wh
 
 # [Kit Review](Kit_Review)
 
+
 ## Would I recommend getting this kit?
 
 I think the answer depends on your ability for DIY projects.  I initially said a _qualified yes_ but
 I am having a fair number of issues with my kit.   It's for DIY'ers who can program, use a multi-meter, 
-troubleshoot issues, possibly engage forums or support to figure out which end is up.  The strongest elements
-of the build are the support and rather simple walk-through of the build.  The weakest parts are the generic
-quality of the parts and for the newbie (like me) how to separate hardware issues and my experience working
-in a Fortune 100 company vs what you expectfrom a small shop. 
+troubleshoot issues, possibly engage forums or support to figure out which end is up.
 
-- Check out my detailed [Kit Review](Kit_Review)
+But the problem I have is with the generic parts, esp. the hot-end and heatbed.  And I had two threads with the support: one very positive that fixed my hotend, and one very disappointing that leads me to believe they know the part is problematic.  Even though it is the cheaper part I had to self-fix (read abandon) the part.
+
+- [My Amazon Review](https://www.amazon.com/review/R2ETPXEMIZBDYI/ref=cm_cr_srp_d_rdp_perm?ie=UTF8&ASIN=B01HOVMLM2)
+- [My Kit Review](Kit_Review)
 
 # Build notes
 
