@@ -39,9 +39,14 @@ So I made the following changes.
 
 {% include image.html url="http://reprap.org/mediawiki/images/thumb/c/ca/Arduinomega1-4connectors.png/800px-Arduinomega1-4connectors.png" description="RAMPS1.4" %}
 
-1. I connected the D8 pins to the control inputs on the MOS controller.  (The negative line on the MOSFET looks like
+1. I connected the D8 pins to the control inputs on the MOS controller.  (The negative line on the MOS looks like
 long streaks)
 2. I connected the heatbed to the MOS controller, and connected the spare powersupply 12V power to this MOS tube as well.
+
+I don't think the external heatbed controller is _required_ but from the RAMPS board we get 12V 11A (rated) for the
+heat bed.  Direct from the powersupply we don't have that current limitation for the hot bed.
+
+(Planned: add a protection fuse for safety)
 
 ## Firmware and Calibration
 
