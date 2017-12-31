@@ -48,6 +48,12 @@ heat bed.  Direct from the powersupply we don't have that current limitation for
 
 (Planned: add a protection fuse for safety)
 
+## Usage Notes
+
+- Clean with a little rubbing alcohol
+- Heat for PLA/TPU/PETG 50-70C  ( I am fine with 85C for PETG, same as I used for Glass)
+- Heat for ABS/Nylon/PC/PP 90-120C 
+
 ## Firmware and Calibration
 
 I changed the Marlin firmware to use PID temp control for the hotbed.
