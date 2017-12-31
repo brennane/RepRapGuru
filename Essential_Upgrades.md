@@ -37,7 +37,7 @@ So I made the following changes.
 
 ## Plumbing
 
-{% include image.html url="http://reprap.org/wiki/File:Arduinomega1-4connectors.png" description="RAMPS1.4" %}
+{% include image.html url="http://reprap.org/mediawiki/images/thumb/c/ca/Arduinomega1-4connectors.png/800px-Arduinomega1-4connectors.png" description="RAMPS1.4" %}
 
 1. I connected the D8 pins to the control inputs on the MOS controller.  (The negative line on the MOSFET looks like
 long streaks)
