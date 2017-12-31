@@ -9,7 +9,7 @@ Should you listen me then?  There's a good question!  All I can say to that end 
 There were things that frustrated me and I quite imagine could baffle someone who is not a programmer or someone who is hobby-minded.  I hope these notes help you overcome similar problems.
 
 
-# [Kit Review](Kit_Review)
+# [Kit Review](https://brennane.github.io/RepRapGuru/Kit_Review)
 
 
 ## Would I recommend getting this kit?
@@ -22,17 +22,17 @@ troubleshoot issues, possibly engage forums or support to figure out which end i
 But the problem I have is with the generic parts, esp. the hot-end and heatbed.  And I had two threads with the support: one very positive that fixed my hotend, and one very disappointing that leads me to believe they know the part is problematic.  Even though it is the cheaper part I had to self-fix (read abandon) the part.
 
 - [My Amazon Review](https://www.amazon.com/review/R2ETPXEMIZBDYI/ref=cm_cr_srp_d_rdp_perm?ie=UTF8&ASIN=B01HOVMLM2)
-- [My Kit Review](Kit_Review)
+- [My Kit Review](https://brennane.github.io/RepRapGuru/Kit_Review)
 
 # Build notes
 
-## [My Essential Upgrades](Essential_Upgrades)
+## [My Essential Upgrades](https://brennane.github.io/RepRapGuru/Essential_Upgrades)
 
 I got my kit for about $250 from Amazon, or whatever they were selling them for on Black Friday.  I think a better kit with more fit and finish and fewer part issues is going to cost more ... Anycubic has an attractive kit for $390 over on Amazon.
 
 I solved my major issues with my kit for $40.00 on my end and probably a $20-30 part replacement from RRG support.  Let's call that $70 of "upgrades"  Worth it.  I think for $250 cost yeah.  For something north of $300 ... maybe I would have returned for a different kit.
 
-Read details on my [Essential Upgrades](Essential_Upgrades)
+Read details on my [Essential Upgrades](https://brennane.github.io/RepRapGuru/Essential_Upgrades)
 
 ## Marlin 1.1.x for RepRapGuru
 
