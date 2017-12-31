@@ -26,7 +26,7 @@ But the problem I have is with the generic parts, esp. the hot-end and heatbed. 
 
 # Build notes
 
-## [My Essential Upgrades](https://brennane.github.io/RepRapGuru/Essential_Upgrades)
+## [Essential Upgrades](https://brennane.github.io/RepRapGuru/Essential_Upgrades)
 
 I got my kit for about $250 from Amazon, or whatever they were selling them for on Black Friday.  I think a better kit with more fit and finish and fewer part issues is going to cost more ... Anycubic has an attractive kit for $390 over on Amazon.
 
