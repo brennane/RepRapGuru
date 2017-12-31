@@ -30,7 +30,7 @@ But the problem I have is with the generic parts, esp. the hot-end and heatbed. 
 
 I got my kit for about $250 from Amazon, or whatever they were selling them for on Black Friday.  I think a better kit with more fit and finish and fewer part issues is going to cost more ... Anycubic has an attractive kit for $390 over on Amazon.
 
-I solved my major issues with my kit for $40.00 on my end and probably a $20-30 part replacement from RRG support.  Let's call that $70 of "upgrades"  Worth it.  I think for $250 cost yeah.  For something north of $300 ... I am very leery.  Prices and situation changes.
+I solved my major issues with my kit for $40.00 on my end and probably a $20-30 part replacement from RRG support.  Let's call that $70 of "upgrades"  Worth it.  I think for $250 cost yeah.  For something north of $300 ... maybe I would have returned for a different kit.
 
 Read details on my [Essential Upgrades](Essential_Upgrades)
 
