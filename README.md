@@ -24,6 +24,18 @@ But the problem I have is with the generic parts, esp. the hot-end and heatbed. 
 - [My Amazon Review](https://www.amazon.com/review/R2ETPXEMIZBDYI/ref=cm_cr_srp_d_rdp_perm?ie=UTF8&ASIN=B01HOVMLM2)
 - [My Kit Review](https://brennane.github.io/RepRapGuru/Kit_Review)
 
+# Initial calibration
+
+After putting the thing together I needed to get a successful print. What to print first?  What settings and filament to use?  There is a lot of conflicting advice out there and I will hopefully cut through some of the noise with sensible settings.  The RRG build manual gets you through initial software setup but lacks information on this important step.
+
+# [Firmware](https://github.com/brennane/RRG-Marlin) 
+
+I planned on created a version of Marlin 1.1.x -- RRG uses an old version -- and reference that here.  I've done that.
+But also because I ran into hardware quality problems with my kit I ended up a non-stock build, but one I think is
+heading in the right right way.  My "Essential Upgrades" version has firmware also here.
+
+Check out [my configuration tweaks](https://github.com/brennane/RRG-Marlin/tree/1.1.x-RRG-Amazon/Marlin/example_configurations/RepRapGuru)
+
 # Build notes
 
 ## [Essential Upgrades](https://brennane.github.io/RepRapGuru/Essential_Upgrades)
@@ -40,13 +52,6 @@ I have current firmware (Marlin) for this printer that is based on the 1.1.x sta
 
 These you may find useful.  No warranty expressed or implied.
 
-# Initial calibration
-
-After putting the thing together I needed to get a successful print. What to print first?  What settings and filament to use?  There is a lot of conflicting advice out there and I will hopefully cut through some of the noise with sensible settings.  The RRG build manual gets you through initial software setup but lacks information on this important step.
-
-# Firmware: 
-
-RRG firmware is based on the popular _Marlin_ firmware.  I have an updated branch and hope to commit my "RepRapGuru/V2" configuration upstream.  This isn't necessary but could be useful if you are going to tweak or machine later on.
 
 # Filament
 
