@@ -20,10 +20,7 @@ length and will have to figure that out.  I'd just get one with the NEMA17 and f
 
 <https://github.com/brennane/RRG-Marlin> in my "RepRapGuru" example configurations.
 
-### PID tuning
-
 ### Extrusion stepper motor feed tuning
-
 
 # Hotbed change (~ $40)
 
@@ -69,6 +66,19 @@ To do your own tuning - in the Repetier-Host G-Code command, issue (from code sy
 - `M303 S85 C8 E-1` (tune the heatbed (E-1) to 85C, eight rounds)
 - `M304 P313.89 I58.05 D424.30` (apply the results)
 - `M500` (save to firmware memory)
+
+# PID tuning
+
+A software note regarding the hardware changes.
+
+The hotend and hotbed changed I had to change this.  And then came _The Troubles_.   Once you start changing power consumption or heat mechanisms things will change, I learned a handy few things along the way.  
+
+PID tuning is where art meets science, with a good dose of art.
+
+I tried the auto-tuning regiment but had trouble at higher powers and when the system is running during a print, so ended
+up having to finesse the results using decent guidance.
+
+The the "Calibration" page for details.
 
 # Filament storage (~ $5)
 
